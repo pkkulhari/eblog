@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 6rem;
+  margin-bottom: 4rem;
+}
+
+.menu {
+  width: 100%;
+  text-align: right;
+}
+
+.brand {
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--color-text-1);
+  text-decoration: none;
+}

@@ -1,0 +1,8 @@
+.layoutWrapper {
+  max-width: 64rem;
+  height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+
+  padding: 0 1rem;
+}
